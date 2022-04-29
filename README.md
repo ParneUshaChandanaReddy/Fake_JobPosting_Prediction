@@ -11,7 +11,7 @@ Notebook for Naive Bayes Classifier, Decision Tree and prediction :
 
  https://www.kaggle.com/code/ushachandanaparne/fake-jobposting-prediction-kaggle
  
- Notebook for Random Forest Classifier
+ Notebook for Random Forest Classifier:
  
  https://www.kaggle.com/code/ushachandanaparne/fakejobprediction-randomforestclassifier
  
